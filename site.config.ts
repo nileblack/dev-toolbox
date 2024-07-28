@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Dev\'s Toolbox',
-  domain: 'toolbaox.code123.in',
+  domain: 'toolbox.code123.in',
   author: 'Sam Lau',
 
   // open graph metadata (optional)
